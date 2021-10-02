@@ -1,0 +1,6 @@
+C:\Users\AD\RiderProjects\Lab4-5\IndexersDemo\bin\Debug\IndexersDemo.exe
+C:\Users\AD\RiderProjects\Lab4-5\IndexersDemo\bin\Debug\IndexersDemo.pdb
+C:\Users\AD\RiderProjects\Lab4-5\IndexersDemo\obj\Debug\IndexersDemo.csprojAssemblyReference.cache
+C:\Users\AD\RiderProjects\Lab4-5\IndexersDemo\obj\Debug\IndexersDemo.csproj.CoreCompileInputs.cache
+C:\Users\AD\RiderProjects\Lab4-5\IndexersDemo\obj\Debug\IndexersDemo.exe
+C:\Users\AD\RiderProjects\Lab4-5\IndexersDemo\obj\Debug\IndexersDemo.pdb
